@@ -14,4 +14,22 @@ Develop a machine learning program to identify when a news source may be produci
     * 0 = real News
 * test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
+Data science concepts used in this project-
 
+* Data loading
+* Data Cleaning
+* Data Analysis and Visualization
+* Feature Engineering
+* Porter Stemmer
+* Tfidvectorizer
+* Machine learning models
+* GridSearchCV for hyperparameter tuning
+
+Tools used in this project
+
+* Python
+* Numpy and Pandas
+* Matplotlib for Data visualization
+* Seaborn for plotting graphs
+* Sklearn for model building
+* Jupyter Notebook
