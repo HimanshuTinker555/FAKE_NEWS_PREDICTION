@@ -9,7 +9,7 @@ Develop a machine learning program to identify when a news source may be produci
   - title: the title of a news article
   - author: author of the news article
   - text: the text of the article; could be incomplete
-  - label: a label that marks the article fake or real
-    ** 1 : Fake News
-    ** 0 : real News
+  - label: a label that marks the article is fake or real
+  -  1 : Fake News
+  -   0 : real News
 * test.csv: A testing training dataset with all the same attributes at train.csv without the label.
